@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-11-05",
+    "time": "10:00",
+    "duration": 60
+  },
+  {
+    "title": "Client Call",
+    "date": "2025-11-05",
+    "time": "14:00",
+    "duration": 30
+  },
+  {
+    "title": "Gym",
+    "date": "2025-11-07",
+    "time": "18:00",
+    "duration": 60
+  }
+]
